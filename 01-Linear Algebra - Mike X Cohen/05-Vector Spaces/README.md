@@ -1,50 +1,33 @@
-3. https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1/?page=4&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Tree&sortBy=submissions
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0075](https://user-images.githubusercontent.com/37560890/172042551-5b315af9-ac19-4acf-8ba6-3f9322a9c68e.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0076](https://user-images.githubusercontent.com/37560890/172042552-ef165c0b-8ca7-4f5b-9aa0-3ac5cb32d58e.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0077](https://user-images.githubusercontent.com/37560890/172042553-7921d7c8-fb71-4f41-a909-fca165e6b124.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0078](https://user-images.githubusercontent.com/37560890/172042556-0e1e26a6-4cf4-4f8c-9b4e-d786754ab44b.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0079](https://user-images.githubusercontent.com/37560890/172042557-16ca592a-68db-4ce7-aa88-6d896090d250.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0080](https://user-images.githubusercontent.com/37560890/172042558-9c7ebe65-b4dc-4b2e-99bc-33fdfd03e325.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0081](https://user-images.githubusercontent.com/37560890/172042559-9bc658e1-c2ed-48f1-bcea-a72506a087fa.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0082](https://user-images.githubusercontent.com/37560890/172042560-c71c7574-5881-48e4-afe3-d8458782c1ef.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0083](https://user-images.githubusercontent.com/37560890/172042563-7db39f21-9b49-4b4e-ae48-fc8f50bbd2db.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0084](https://user-images.githubusercontent.com/37560890/172042564-443bc9d3-5092-4216-98de-3c945cb2ffe5.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0085](https://user-images.githubusercontent.com/37560890/172042565-354e3225-4573-4933-87a1-09a21c50a35a.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0086](https://user-images.githubusercontent.com/37560890/172042566-35b3bedc-18c1-44f4-a61d-e7780502c6cf.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0087](https://user-images.githubusercontent.com/37560890/172042567-458bca1e-51e6-43c6-9f48-c1fae1dec5a9.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0088](https://user-images.githubusercontent.com/37560890/172042569-214bff4a-adfb-4f97-80f4-5f43aa13388c.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0089](https://user-images.githubusercontent.com/37560890/172042570-c95eb059-382f-49c1-8f1d-ecd0e4099010.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0090](https://user-images.githubusercontent.com/37560890/172042571-199ddeab-c748-4687-9edd-45d9ce5641e4.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0091](https://user-images.githubusercontent.com/106215989/172042598-486b2cc3-8853-4170-97f3-ac1369689a03.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0092](https://user-images.githubusercontent.com/106215989/172042601-d341d654-f4ee-4c55-84c0-444aeeaab60b.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0093](https://user-images.githubusercontent.com/106215989/172042602-580963a0-05ce-45c8-b4e3-717712f0f9bb.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0094](https://user-images.githubusercontent.com/106215989/172042604-6bff474b-f28e-43e3-9ed8-ca33481c385c.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0095](https://user-images.githubusercontent.com/106215989/172042605-7d59bde6-4169-479d-a5fd-05d60803e6d2.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0096](https://user-images.githubusercontent.com/106215989/172042606-216581dd-3f81-4f8a-afd5-1a854496a175.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0097](https://user-images.githubusercontent.com/106215989/172042608-c14e22c3-ca88-4787-b37a-98f336a1f69b.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0098](https://user-images.githubusercontent.com/106215989/172042609-0b16fb19-4ddf-45b2-921a-57d263785099.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0099](https://user-images.githubusercontent.com/106215989/172042610-e8fd66a0-fda2-4f36-85a2-2df44a90771b.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0100](https://user-images.githubusercontent.com/106215989/172042612-1a96dc4a-8139-4af2-a7fc-083a9cca5191.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0101](https://user-images.githubusercontent.com/106215989/172042614-7369be4e-fbb3-42e3-a0cf-d9fd613e704e.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0102](https://user-images.githubusercontent.com/106215989/172042616-d124a897-24ff-4f2c-8a60-f87d3d067211.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0103](https://user-images.githubusercontent.com/106215989/172042617-0c7bc563-6fe8-4e5d-b336-10bcade0c5fb.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0104](https://user-images.githubusercontent.com/106215989/172042618-482f1f2f-bc6b-4c21-b2f1-c4a66bc82bb3.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0105](https://user-images.githubusercontent.com/106215989/172042619-b54f55f2-d92f-42da-8a9d-0530765f707c.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0106](https://user-images.githubusercontent.com/106215989/172042620-d6174098-9161-4f9a-8fbf-946788c4f804.jpg)
 
-```cpp
-vector<int> findSpiral(Node *root)
-{
-    //Your code here
-    vector<int> v;
-    int level=0;
-    if(root==NULL)
-	{
-        return v;
-    }
-    queue<Node*> q;
-    q.push(root);
-    
-	while(!q.empty())
-	{
-        int size=q.size(); 
-        vector<int> temp;
-        for(int i=0;i<size;i++)
-		{
-            Node* r=q.front();
-            q.pop();
-            temp.push_back(r->data);
-            
-			if(r->left)
-			{
-                q.push(r->left);
-            }
-            
-			if(r->right)
-			{
-                q.push(r->right);
-            }
-        }
-        if(level%2==0)
-		{
-            reverse(temp.begin(),temp.end());
-        }
-        
-		for(int i=0;i<temp.size();i++)
-		{
-            v.push_back(temp[i]);
-        }
-        level++;
-    }
-    return v;
-}
-
-```
