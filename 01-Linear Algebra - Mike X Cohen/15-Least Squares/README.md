@@ -1,50 +1,15 @@
-3. https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1/?page=4&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Tree&sortBy=submissions
-
-```cpp
-vector<int> findSpiral(Node *root)
-{
-    //Your code here
-    vector<int> v;
-    int level=0;
-    if(root==NULL)
-	{
-        return v;
-    }
-    queue<Node*> q;
-    q.push(root);
-    
-	while(!q.empty())
-	{
-        int size=q.size(); 
-        vector<int> temp;
-        for(int i=0;i<size;i++)
-		{
-            Node* r=q.front();
-            q.pop();
-            temp.push_back(r->data);
-            
-			if(r->left)
-			{
-                q.push(r->left);
-            }
-            
-			if(r->right)
-			{
-                q.push(r->right);
-            }
-        }
-        if(level%2==0)
-		{
-            reverse(temp.begin(),temp.end());
-        }
-        
-		for(int i=0;i<temp.size();i++)
-		{
-            v.push_back(temp[i]);
-        }
-        level++;
-    }
-    return v;
-}
-
-```
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0389](https://user-images.githubusercontent.com/37560890/173174835-1a157137-8ea8-433e-a1ac-5ee364760009.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0390](https://user-images.githubusercontent.com/37560890/173174836-2152624d-0195-45f3-b16e-f4d0f0248d49.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0391](https://user-images.githubusercontent.com/37560890/173174838-e7db0ec5-2c71-4e25-bb6e-6e9f85f25243.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0392](https://user-images.githubusercontent.com/37560890/173174840-bc7ebf13-8212-4edf-b073-803c5770f51f.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0393](https://user-images.githubusercontent.com/37560890/173174842-83318dc9-44f4-4ac8-850a-6372a911a2f1.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0394](https://user-images.githubusercontent.com/37560890/173174843-6815d102-6bb6-4c2c-8a4b-e3864a4ea104.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0395](https://user-images.githubusercontent.com/37560890/173174844-688d60aa-4423-4f9a-9f00-1bc5de184ad3.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0396](https://user-images.githubusercontent.com/37560890/173174845-c36ce672-283a-4da8-804f-a4514e6e37e2.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0397](https://user-images.githubusercontent.com/37560890/173174846-d8732cd1-f65c-4e3c-8555-63853574417d.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0398](https://user-images.githubusercontent.com/37560890/173174847-5da03773-8cce-45cc-8658-c1ae08e6685e.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0399](https://user-images.githubusercontent.com/37560890/173174848-59b12273-5bd1-41ca-97fe-3f8b20870935.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0400](https://user-images.githubusercontent.com/37560890/173174849-23343646-7323-46f5-9e4d-ada0deb07765.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0401](https://user-images.githubusercontent.com/37560890/173174850-f8b263c4-ce77-478a-8d2c-0af869780f6c.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0402](https://user-images.githubusercontent.com/37560890/173174851-d85ef543-6a79-4e8b-bca3-a6edc72666d4.jpg)
+![linear-algebra-theory-intuition-code-9083136604-9789083136608_page-0403](https://user-images.githubusercontent.com/37560890/173174854-151f4d32-1911-4e49-9714-ddee8a9844c0.jpg)
